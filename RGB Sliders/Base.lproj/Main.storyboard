@@ -47,7 +47,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <segue destination="RMK-vE-rM6" kind="show" id="BHE-YA-eoh"/>
+                                    <segue destination="RMK-vE-rM6" kind="show" identifier="openColor" id="BHE-YA-eoh"/>
                                 </connections>
                             </button>
                         </subviews>
